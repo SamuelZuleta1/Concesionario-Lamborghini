@@ -10,9 +10,13 @@ Este proyecto se desarrolló utilizando Dr Racket con GUI. La arquitectura adopt
 
 
 Universidad Tecnológica de Pereira 
+
 Ingeniería en Sistemas y Computación
+
 Facultad de Ingenierias 
+
 Programación I
+
 ing(c): Samuel Zuleta Castañeda
 
 # Contacto
